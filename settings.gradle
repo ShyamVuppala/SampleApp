@@ -1,0 +1,3 @@
+include ':samplelib'
+include ':app'
+rootProject.name = "Sample Library"
